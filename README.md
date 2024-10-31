@@ -1,8 +1,6 @@
-# Premier-League-Stats
-
-## Premier League team statics Application
+# Premier League Statics 
 A application showing Premier League Statics by a team in the 2023-24 season.
-### Description
+## Description
 This app is meant to help visualize Premier League stats that a team has during the 2023-24 season. This app includes a search feature to help search for teams, and a filter option where you can filter the stats of a single team or every team and download another data set from it. This app help visualize the stats by having multiple graphs and multiple ways to order the graphs.
 
 ## Installation 
